@@ -1,0 +1,6 @@
+{"id": "t1", "text": "This is a text. It contains repeated words. This is the repeated sentence and passim is supposed to find it."}
+{"id": "t2", "text": "This is the repeated sentence and passim is supposed to find it."}
+{"id": "t3", "text": "This text does not contain the repeated sentence. It is about nothing really."}
+{"id": "t4", "text": "Another text. This is the repeated sentence and passim is supposed to find it. What a nice text"}
+
+
