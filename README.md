@@ -23,7 +23,7 @@ The example data was generated using [notebooks/generate-data.ipynb](notebooks/g
 ## Commands
 
 ```
-passim --output-format parquet --pairwise data/test.json out
+passim --output-format parquet --pairwise data/lorem25.json out
 ```
 
 * Reading parquet data is more convenient than reading json data (see notebook)
