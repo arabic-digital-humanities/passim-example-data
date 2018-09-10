@@ -11,8 +11,14 @@ Example data to understand how [passim](https://github.com/dasmiq/passim) works.
 
 ## Data
 
-* `minimal.json` data used in the [github issue](https://github.com/dasmiq/passim/issues/4)
-* `lorem.json` data with more text to see how passim works and what text sizes match
+The example data was generated using [notebooks/generate-data.ipynb](notebooks/generate-data.ipynb).
+
+* `lorem25.json` a file containing two series:
+	- Series `a`: single sentences containing 1 to 25 words
+	- Series `b`: the series `a` sentences concatenated together
+* `lorem25-compare_shuffle.json` a file containing two series:
+	- Series `a`: text `t325` from `lorem25.json`
+	- Series `b`: text `t325` from `lorem25.json` with sentences shuffled
 
 ## Commands
 
